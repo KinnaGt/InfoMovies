@@ -1,6 +1,7 @@
 # movieapp
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/81035527/149531850-b1192859-58af-44dd-ae1b-830e36d4ed5b.png) ![image](https://user-images.githubusercontent.com/81035527/149532246-7ae40fd8-ea64-4f60-baf4-adeee07e7d23.png)
+
 
 ## Getting Started
 
