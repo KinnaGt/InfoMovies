@@ -1,6 +1,5 @@
 # movieapp
 
-![image](https://user-images.githubusercontent.com/81035527/149532342-7d594e8d-be4e-490f-82dc-f76751bceebb.png)
 
 
 
