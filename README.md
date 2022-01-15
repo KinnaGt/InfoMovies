@@ -1,6 +1,9 @@
-# movieapp
+# MovieApp
 
 
+
+![MovieApp2](https://user-images.githubusercontent.com/81035527/149623628-e9bac5bf-6ed9-4c9a-8fce-4d64548cf97e.png)
+![MovieApp](https://user-images.githubusercontent.com/81035527/149623629-6645e080-7591-436b-b8c8-eef89fd9f446.png)
 
 
 ## Getting Started
